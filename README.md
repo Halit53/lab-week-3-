@@ -11,6 +11,6 @@ Shortcuts I would like to start using:
 - Ctrl+O (Opens an existing file)
 - Ctrl+M (MInimize)
 
-
+Link to cli.md : (docs/cli.md) .
 
 
